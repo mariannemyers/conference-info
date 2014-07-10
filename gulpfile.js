@@ -24,9 +24,9 @@ var rename = require('gulp-rename');
 var uglify = require('gulp-uglify');
 
 var options = {
-  appPort: argv['app-port'] || 9070,
+  appPort: argv['app-port'] || 9075,
   mlHost: argv['ml-host'] || 'localhost',
-  mlPort: argv['ml-port'] || '8040'
+  mlPort: argv['ml-port'] || '8065'
 };
 
 gulp.task('jshint', function() {
