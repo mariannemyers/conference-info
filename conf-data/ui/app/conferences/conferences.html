@@ -1,0 +1,12 @@
+<div class="row detail">
+  <!-- display JSON data -->
+  <P>Conferences</p>
+  <json-explorer json-data="{{model.detail}}"></json-explorer>
+  
+  <ul>
+      <li ng-repeat="conference in model.conferences">
+	    <a ng-href="/conference?graph={{conference.graph}}">{{conference.name}}</a>
+      </li>
+  </ul>
+
+</div>
