@@ -265,7 +265,35 @@
               uri: uri
             });
             return $http.get(
-              '/v1/documents',
+              '/v1/resources/conf-data',
+              {
+                params: options
+              });
+          },
+          // TODO: Make this cleaner.  Your response must be a well formatted HTTP response, and this handles it. mgm
+          getConferences: function(options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json'
+            });
+            return $http.get(
+              '/v1/resources/conferences',
+              {
+                params: options
+              });
+          },
+          getConference: function(graph, options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json',
+              graph: graph
+            });
+            return $http.get(
+              '/v1/resources/conference',
               {
                 params: options
               });
@@ -341,6 +369,7 @@
             )
             .success(
               function(data, status, headers, config) {
+                console.log("Success!");
                 d.resolve(data);
               })
             .error(function(reason) {
@@ -352,6 +381,8 @@
             return this.advancedCall('/v1/resources/'+extensionName, settings);
           }
         };
+
+
 
         return service;
       };

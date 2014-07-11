@@ -2,20 +2,169 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12e3048-81c4-473d-8cbb-1e90adbbcaa8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/conference-info.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/conference_info_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest-api/ext/user-login.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest-api/ext/user-logout.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest-api/ext/user-status.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy/build.properties" afterPath="$PROJECT_DIR$/deploy/build.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/app/create/compile.js" afterPath="$PROJECT_DIR$/ui/app/create/compile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Array.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/FalseClass.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Hash.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Key.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/NilClass.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Numeric.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/String.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/TrueClass.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/corb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/json.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/marklogic-xcc-5.0.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/recordloader.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/xpp3-1.1.4c.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/xqsync.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/xstream-1.4.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/Help.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/MLClient.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/RoxyHttp.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/all.sample.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/config/options/all.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/app_specific.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml4-properties/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml5-properties/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml6-properties/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml7-properties/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/build.sample.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/common/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/common.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/compile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/conferences.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/controller-function.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/controller.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/add/core.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/xquery/cpf.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/create-ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/controllers/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml4-properties/default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml5-properties/default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml6-properties/default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml7-properties/default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/detail/detail-ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/detail/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/detail/detail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/controllers/detail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/transforms/detail.xslt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/editor.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/ext.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/directives/facets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/framework.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/pure/generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/karma-e2e.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/layout.html.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/layout.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/styles/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/controllers/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/styles/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/ml-config.sample.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/ml-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ml.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/ml.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml4-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml5-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml6-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml7-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/ml_rest.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/common/services/mlrest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/model-function.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/model.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/pure/parser.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/pipeline-config.sample.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/properties.sample.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/config/properties.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/pure.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/add/rails.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/rest-ext.sample.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/rest-transform.sample.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/rest-transform.sample.xslt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/results-dir.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/results-dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/runner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/scaffold.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/search-ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/server_config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/xquery/setup.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/test-test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/test.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/test_main.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/test_server_config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/libraries/test_test_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/triple-endpoint.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/upgrader.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user-dir.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user-dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user-srv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/util.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/version.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.html.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.json.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.xml.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.xqy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/xcc.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/app.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/detail/detail.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/detail/detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/index.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/server.js" afterPath="$PROJECT_DIR$/conf-data/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="conference-info.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,105 +187,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="conferences.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conferences-ctrl.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conference.xqy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conferences.xqy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conferences.xqy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triple-endpoint.xqy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/triple-endpoint.xqy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mlrest.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4494" max-vertical-offset="6732">
+              <caret line="272" column="35" selection-start-line="272" selection-start-column="35" selection-end-line="272" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.js">
+        <entry file="file://$PROJECT_DIR$/conf-data/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="3638">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deploy/build.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2550">
-              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state vertical-scroll-proportion="-21.88" vertical-offset="2955" max-vertical-offset="3672">
+              <caret line="206" column="23" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ml-config.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deploy/ml-config.xml">
+      <file leaf-file-name="results-dir.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/results-dir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.32" vertical-offset="7428" max-vertical-offset="8483">
-              <caret line="458" column="11" selection-start-line="458" selection-start-column="11" selection-end-line="458" selection-end-column="11" />
+            <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="289">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user-dir.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/app/user/user-dir.js">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1139">
-              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.43530998" vertical-offset="0" max-vertical-offset="742">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/app/user/user.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user-srv.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/app/user/user-srv.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3858156" vertical-offset="204" max-vertical-offset="1598">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user-login.xqy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest-api/ext/user-login.xqy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-              <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
-              <folding>
-                <marker date="1404873457950" expanded="true" signature="586:1811" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="properties.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest-api/config/properties.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest-api/config/options/all.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-17.0" vertical-offset="51" max-vertical-offset="1411">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,30 +295,43 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/conf-data" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/rest-api/ext/user-login.xqy" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/detail/detail.html" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/bower_components/ng-json-explorer/src/gd-ui-jsonexplorer.js" />
+        <option value="$PROJECT_DIR$/conf-data/server.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/index.html" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/triple-endpoint.xqy" />
+        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/conferences.xqy" />
+        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="200" />
-    <option name="y" value="6" />
-    <option name="width" value="1400" />
-    <option name="height" value="860" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -192,6 +350,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,6 +379,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -231,6 +408,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -252,6 +433,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -260,7 +445,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
+              <option name="myItemId" value="search" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -271,16 +456,266 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="detail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="create" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conferences" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-json-explorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-json-explorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="rest-api" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="transforms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -289,6 +724,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -300,50 +739,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conference-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conference-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rest-api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conference-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conference-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="deploy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="user&#9;FILE&#9;file://C:/code/conference-info/ui/app/user/user-dir.js" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode.XQuery" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\conference-info\conf-data\rest-api\ext" />
       <recent name="C:\code\conference-info\rest-api\ext" />
     </key>
   </component>
@@ -392,6 +805,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a12e3048-81c4-473d-8cbb-1e90adbbcaa8" name="Default" comment="" />
@@ -401,19 +817,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="200" y="6" width="1400" height="860" extended-state="1" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -440,16 +856,28 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js</url>
+          <line>350</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rest-api/config/options/all.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="3638">
           <caret line="91" column="27" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -457,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1139">
           <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -465,7 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,7 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1377">
           <caret line="36" column="20" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1598">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,7 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1377">
           <caret line="36" column="20" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,7 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1139">
           <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,31 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest-api/config/options/all.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2550">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy/ml-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.32" vertical-offset="7428" max-vertical-offset="8483">
-          <caret line="458" column="11" selection-start-line="458" selection-start-column="11" selection-end-line="458" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,9 +983,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
           <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
-          <folding>
-            <marker date="1404873457950" expanded="true" signature="586:1811" placeholder="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1598">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -603,16 +997,250 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3638">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2550">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/ml-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7428" max-vertical-offset="8483">
+          <caret line="458" column="11" selection-start-line="458" selection-start-column="11" selection-end-line="458" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-api/config/options/all.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/common/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/images/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="238">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/bower_components/mlFacets/dist/ml-facets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/bower_components/mlFacets/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/bower_components/mlFacets/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/bower_components/mlFacets/dist/ml-facets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/search-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/create/create-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/create/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024182077" vertical-offset="0" max-vertical-offset="1428">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="716">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/bower_components/ng-json-explorer/src/gd-ui-jsonexplorer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.6" vertical-offset="203" max-vertical-offset="4046">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <marker date="1405108099625" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1405108099625" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1405108099625" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1405108099625" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/detail/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3858156" vertical-offset="204" max-vertical-offset="1598">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="170">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/detail/detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/results-dir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/detail/detail-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.88" vertical-offset="2955" max-vertical-offset="3672">
+          <caret line="206" column="23" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0" vertical-offset="51" max-vertical-offset="1411">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/results-dir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="289">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4494" max-vertical-offset="6732">
+          <caret line="272" column="35" selection-start-line="272" selection-start-column="35" selection-end-line="272" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/triple-endpoint.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conferences.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43530998" vertical-offset="0" max-vertical-offset="742">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding />
         </state>
       </provider>

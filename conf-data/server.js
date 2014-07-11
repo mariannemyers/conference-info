@@ -37,6 +37,8 @@ exports.buildExpress = function(options) {
   // Generic proxy function used by multiple HTTP verbs
   function proxy(req, res) {
     var queryString = req.originalUrl.split('?')[1];
+    //TODO: Workaround to get the rs prefix onto the URL.  mgm
+    //var queryString = queryStringOrig.replace('uri', 'rs:uri');
     console.log(req.method + ' ' + req.path + ' proxied to ' + options.mlHost + ':' + options.mlPort + req.path + (queryString ? '?' + queryString : ''));
     var mlReq = http.request({
       hostname: options.mlHost,
@@ -202,7 +204,7 @@ exports.buildExpress = function(options) {
   app.use('/profile', express.static('ui/app'));
   app.use('/detail', express.static('ui/app'));
   app.use('/create', express.static('ui/app'));
-
+  app.use('/conferences', express.static('ui/app'));
   return app;
 };
 

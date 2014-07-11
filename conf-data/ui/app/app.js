@@ -1,7 +1,7 @@
 
 angular.module('sample', [
   'ngRoute', 'ngCkeditor', 'sample.user', 'sample.search', 'sample.common', 'sample.detail',
-  'ui.bootstrap', 'gd.ui.jsonexplorer', 'sample.create'
+  'ui.bootstrap', 'gd.ui.jsonexplorer', 'sample.create', 'sample.conferences'
 ])
   .config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {
 
@@ -24,6 +24,10 @@ angular.module('sample', [
       .when('/profile', {
         templateUrl: '/user/profile.html',
         controller: 'ProfileCtrl'
+      })
+      .when('/conferences', {
+        templateUrl: '/conferences/conferences.html',
+        controller: 'ConferencesCtrl'
       })
       .otherwise({
         redirectTo: '/'
