@@ -1,173 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a12e3048-81c4-473d-8cbb-1e90adbbcaa8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Array.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/FalseClass.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Hash.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Key.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/NilClass.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/Numeric.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/String.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/TrueClass.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/corb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/json.xpm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/images/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/marklogic-xcc-5.0.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/recordloader.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/xpp3-1.1.4c.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/xqsync.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/java/xstream-1.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/Help.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/MLClient.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/README.mdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/RoxyHttp.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/all.sample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/config/options/all.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/app_specific.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml4-properties/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml5-properties/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml6-properties/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml7-properties/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/build.sample.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/common/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/common.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/compile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conference/conference.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conference/conference.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/conferences.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/controller-function.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/controller.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/add/core.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/xquery/cpf.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/create-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/create.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/create/create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/controllers/create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/default.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml4-properties/default.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml5-properties/default.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml6-properties/default.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml7-properties/default.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/detail/detail-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/detail/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/detail/detail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/controllers/detail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/transforms/detail.xslt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/editor.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/ext.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/directives/facets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/framework.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/pure/generator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/karma-e2e.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/layout.html.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/layout.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/controllers/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/styles/main.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/ml-config.sample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/ml-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ml.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/ml.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml4-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml5-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml6-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/data/ml7-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/ml_rest.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/spec/common/services/mlrest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/model-function.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/model.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/paper/paper-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/paper/paper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/paper/paper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/pure/parser.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/pipeline-config.sample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/properties.sample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/config/properties.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/pure.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/add/rails.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/rest-ext.sample.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/rest-transform.sample.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/sample/rest-transform.sample.xslt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/results-dir.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/results-dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/test/runner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/scaffold.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/search-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/search/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/server_config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/xquery/setup.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/test-test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/test.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/test_main.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/test/test_server_config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/libraries/test_test_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/triple-endpoint.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/triples/triples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/triples/triples.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/upgrader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user-dir.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user-dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user-srv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/user/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/util.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/json/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/version.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.html.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.json.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.xml.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/templates/view.xqy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/deploy/lib/xcc.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a12e3048-81c4-473d-8cbb-1e90adbbcaa8" name="Default" comment="" />
     <ignored path="conference-info.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -202,17 +36,17 @@
       <file leaf-file-name="conferences.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="289">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="289">
               <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conference.xqy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="conference.xqy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41975307" vertical-offset="51" max-vertical-offset="1122">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1122">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -242,7 +76,7 @@
       <file leaf-file-name="triples.xqy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+            <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="952">
               <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding />
             </state>
@@ -252,17 +86,17 @@
       <file leaf-file-name="triples-ctrl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="646">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="triples.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="triples.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf-data/ui/app/triples/triples.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="306">
+            <state vertical-scroll-proportion="0.19131833" vertical-offset="0" max-vertical-offset="622">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding />
             </state>
@@ -272,7 +106,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf-data/ui/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.576923" vertical-offset="697" max-vertical-offset="1479">
+            <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1479">
               <caret line="74" column="32" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
               <folding />
             </state>
@@ -282,7 +116,7 @@
       <file leaf-file-name="conference.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conference/conference.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
+            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289">
               <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding />
             </state>
@@ -761,6 +595,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -771,12 +613,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -784,16 +628,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1089,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1360">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,7 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1113,7 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
           <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1121,7 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <caret line="19" column="26" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,7 +958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
           <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,7 +965,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,7 +972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="816">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1159,7 +985,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/ui/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.576923" vertical-offset="697" max-vertical-offset="1479">
+        <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1479">
           <caret line="74" column="32" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
           <folding />
         </state>
@@ -1191,7 +1017,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conference/conference.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding />
         </state>
@@ -1199,7 +1025,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="289">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="289">
           <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
           <folding />
         </state>
@@ -1209,22 +1035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/triples/triples.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="306">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1239,8 +1049,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41975307" vertical-offset="51" max-vertical-offset="1122">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1122">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/triples/triples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19131833" vertical-offset="0" max-vertical-offset="622">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding />
         </state>
       </provider>
