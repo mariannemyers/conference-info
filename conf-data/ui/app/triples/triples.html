@@ -1,0 +1,13 @@
+<div class="row detail">
+  <!-- display JSON data -->
+  <P>Triples!!</p>
+  <!-- <json-explorer json-data="{{model.detail}}"></json-explorer> -->
+
+  <ul>
+      <li ng-repeat="triple in model.triples">
+        {{triple.p}} :
+	    <a ng-href="/triples?iri={{triple.o}}">{{triple.o}}</a>
+      </li>
+  </ul>
+
+</div>
