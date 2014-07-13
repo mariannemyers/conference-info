@@ -290,7 +290,7 @@
             }
             angular.extend(options, {
               format: 'json',
-              graph: graph
+              'rs:graph': graph
             });
             return $http.get(
               '/v1/resources/conference',
@@ -304,7 +304,7 @@
             }
             angular.extend(options, {
               format: 'json',
-              iri: iri
+              'rs:iri': iri
             });
             return $http.get(
               '/v1/resources/triples',
