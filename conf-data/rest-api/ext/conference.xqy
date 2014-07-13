@@ -15,8 +15,7 @@ $context as map:map,
 $params  as map:map
 ) as document-node()* {
     (: Return details of what papers are at the conference collection requested :)
-    let $graph := map:get($params, "graph") cast as xs:string
-    let $log := xdmp:log($graph)
+    let $graph := map:get($params, "graph")
     let $options := (fn:concat("default-graph=", $graph))
 
     let $result := sem:sparql('
@@ -29,7 +28,7 @@ $params  as map:map
       where {
         ?s a swrc:InProceedings;
         dc:title ?title .
-      }
+      } order by asc(?title)
 
       ',
      (), $options
