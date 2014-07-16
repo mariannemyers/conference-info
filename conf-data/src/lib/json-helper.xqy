@@ -64,6 +64,7 @@ function json-helper:add-to-array(
     then
       xdmp:node-insert-child($array-section,$json-xml)
     else
+      (: TODO: This really is the wrong place for this  mgm :))
       let $doc :=
         <json type="object" xmlns="http://marklogic.com/xdmp/json/basic">
           <comments type="array">

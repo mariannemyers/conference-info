@@ -14,7 +14,7 @@
       },
       templateUrl: '/triples/add-comment.html',
       link: function($scope) {
-        
+
       }
     };
   }]);

@@ -18,6 +18,6 @@
     <article class="comment" ng-repeat="comment in model.demo.comments | orderBy:'-dateTime'" data-id="{{comment.id}}">
         <h4>Comment by {{comment.username}}</h4>
         <p class="dateTime">on {{comment.dateTime}}</p>
-        {{comment.msg}}
+        <editable enabled="model.user.authenticated && model.user.name === comment.username" edit-model="comment.msg" edit-type="textarea" save="updateItemInArray('comment', comment.id, 'msg', comment.msg)"/>
     </article>
 </section>
