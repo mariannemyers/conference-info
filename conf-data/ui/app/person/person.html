@@ -1,0 +1,17 @@
+<div class="row detail">
+  <!-- display JSON data -->
+  <!-- <json-explorer json-data="{{model.detail}}"></json-explorer> -->
+  Name: {{model.name}}
+  <br/>
+    Based Near {{model.basedNear}}
+    <br/>
+    <img src={{model.depiction}} align="right"/>
+  Email: <a ng-href="{{model.mbox}}">Email this person</a>
+  <ul>
+      <li ng-repeat="data in model.confData">
+        <a ng-href="/triples?iri={{data.pub}}">{{data.title}}</a>
+         CoAuthor: <a ng-href="/person?person={{data.coauthor}}">{{data.coauthorname}}</a>
+      </li>
+  </ul>
+
+</div>

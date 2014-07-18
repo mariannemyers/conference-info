@@ -4,6 +4,7 @@
   <!-- <json-explorer json-data="{{model.detail}}"></json-explorer> -->
 
   <ul>
+      <!-- TODO: make this a link only if it contains http:// -->
       <li ng-repeat="triple in model.triples">
         {{triple.p}} :
 	    <a ng-href="/triples?iri={{triple.o}}">{{triple.o}}</a>

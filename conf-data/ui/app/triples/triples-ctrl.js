@@ -20,6 +20,7 @@
         detail: {},
         triples: {},
         iri: iri,
+        // TODO: Cleanup demo stuff in here mgm
         demo: {
           comments:[],
           bugs:[]

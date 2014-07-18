@@ -1,0 +1,28 @@
+## Get all authors, coauthors, paper IRI, and paper title.  Filter if the current person is the author.
+
+PREFIX foaf:  <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT ?person ?name ?pub ?coauthorname ?title
+WHERE {
+    ?person foaf:name ?name .
+    ?pub foaf:maker ?person,?coauthor .
+    ?coauthor foaf:name ?coauthorname .
+    ?pub dc:title ?title .
+    FILTER (?person != ?coauthor) .
+}
+   
+This might be a bad query
+
+
+PREFIX foaf:  <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT ?pub ?coauthor
+WHERE { <http://data.semanticweb.org/person/raphael-troncy> foaf:made ?pub .
+        ?pub foaf:maker ?coauthor . 
+        ?coauthor foaf:name ?coauthorname .
+        ?pub dc:title ?title .
+        FILTER (<http://data.semanticweb.org/person/raphael-troncy> != ?coauthor) .
+      }
+    

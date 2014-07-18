@@ -312,6 +312,34 @@
                 params: options
               });
           },
+          getPerson: function(person, options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json',
+              'rs:person': person
+            });
+            return $http.get(
+              '/v1/resources/person',
+              {
+                params: options
+              });
+          },
+          getPersonDetail: function(person, options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json',
+              'rs:person': person
+            });
+            return $http.get(
+              '/v1/resources/author-detail',
+              {
+                params: options
+              });
+          },
           createDocument: function(doc, options) {
             // send a POST request to /v1/documents
             return $http.post(

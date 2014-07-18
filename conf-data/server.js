@@ -212,7 +212,7 @@ exports.buildExpress = function(options) {
   app.use('/conferences', express.static('ui/app'));
   app.use('/conference', express.static('ui/app'));
   app.use('/triples', express.static('ui/app'));
-
+  app.use('/person', express.static('ui/app'));
   return app;
 };
 
