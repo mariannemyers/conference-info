@@ -340,6 +340,20 @@
                 params: options
               });
           },
+          getPaper: function(paper, options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json',
+              'rs:paper': paper
+            });
+            return $http.get(
+              '/v1/resources/paper',
+              {
+                params: options
+              });
+          },
           createDocument: function(doc, options) {
             // send a POST request to /v1/documents
             return $http.post(

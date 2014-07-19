@@ -1,14 +1,18 @@
 (function () {
   'use strict';
 
-  angular.module('sample.conference')
+  angular.module('sample.paper')
     .controller('PaperCtrl', ['$scope', 'MLRest', '$routeParams', function ($scope, mlRest, $routeParams) {
-      var graph = $routeParams.s;
+      var paper = $routeParams.paper;
       var model = {
         // your model stuff here
         detail: {},
-        papers: {},
-        s: s
+        paper: $routeParams.paper,
+        title: '',
+        authors: [],
+        month: '',
+        year: '',
+        hashtag: ''
       };
       var settings = {
         'method':'GET',
@@ -17,11 +21,37 @@
           'Content-Type': 'application/json'
         }
       };
-      mlRest.getConference(s, { format: 'json' }).then(function(response) {
-      //mlRest.callExtension('conferences', settings).then(function(response) {
+      mlRest.getPaper(paper, { format: 'json' }).then(function(response) {
         model.detail = response.data;
-        model.papers = response.data;
-      });
+        if(response.data instanceof Array) {
+          if(response.data instanceof Array) {
+            // TODO: Is this the right way, or is my query wrong? mgm
+            model.title = response.data[0].title;
+            model.month = response.data[0].month;
+            model.year = response.data[0].year;
+            model.hashtag = response.data[0].hashtag;
+            if(model.hashtag.indexOf('#') > -1){
+              model.hashtag = model.hashtag.replace('#', '');
+            }
+            response.data.forEach(function(entry) {
+              model.authors.push( {
+                'author' : entry.author,
+                'authorName' : entry.authorname
+              });
+            });
+          }
+        }
+        else {
+          model.title = response.data.title;
+          model.month = response.data.month;
+          model.year = response.data.year;
+          model.hashtag = response.data.hashtag;
+          model.authors.push( {
+            'author' : entry.author,
+            'authorName' : entry.authorname
+          });
+        }
+       });
 
       angular.extend($scope, {
         model: model

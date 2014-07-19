@@ -27,9 +27,10 @@ $params  as map:map
         PREFIX swrc: <http://swrc.ontoware.org/ontology#>
         PREFIX owl: <http://www.ontologydesignpatterns.org/ont/eswc/ontology.owl#>
 
-        SELECT ?title ?author ?month ?year ?hashtag
+        SELECT ?title ?author ?authorname ?month ?year ?hashtag
         WHERE { ?subject dc:title ?title .
                 ?subject foaf:maker ?author .
+                ?author foaf:name ?authorname .
                 ?subject swrc:month ?month .
                 ?subject swrc:year ?year .
                 { OPTIONAL { ?subject owl:hashtag ?hashtag } }

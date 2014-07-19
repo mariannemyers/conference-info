@@ -2,11 +2,29 @@
   <!-- display JSON data -->
   <P>Details for a conference proceedings</p>
   <!-- <json-explorer json-data="{{model.detail}}"></json-explorer> -->
-  
+  <h3>{{model.title}}</h3>
+  <br/>
+    Publication Date: {{model.month}} {{model.year}}
+  <br/>
+  Search <a ng-href="http://twitter.com/hashtag/{{model.hashtag}}">#{{model.hashtag}}</a> on twitter.
+  <br/>
+    Authors:
   <ul>
-      <li ng-repeat="paper in model.papers">
-	    <a ng-href="/paper?rs:s={{paper.s}}">{{paper.title}}</a>
+      <li ng-repeat="author in model.authors">
+	    <a ng-href="/person?person={{author.author}}">{{author.authorName}}</a>
       </li>
   </ul>
+
+    <!-- TODO: Add the ability to look at this paper as just a triple. -->
+
+    <section class="comments col-md-12">
+        <h3>Comments</h3>
+        <add-comment add-model="model.additionalComment.msg" authenticated="model.user.authenticated" save="addComment(model.additionalComment)"></add-comment>
+        <article class="comment" ng-repeat="comment in model.demo.comments | orderBy:'-dateTime'" data-id="{{comment.id}}">
+            <h4>Comment by {{comment.username}}</h4>
+            <p class="dateTime">on {{comment.dateTime}}</p>
+            <editable enabled="model.user.authenticated && model.user.name === comment.username" edit-model="comment.msg" edit-type="textarea" save="updateItemInArray('comment', comment.id, 'msg', comment.msg)"/>
+        </article>
+    </section>
 
 </div>
