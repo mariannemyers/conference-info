@@ -47,8 +47,8 @@
           model.year = response.data.year;
           model.hashtag = response.data.hashtag;
           model.authors.push( {
-            'author' : entry.author,
-            'authorName' : entry.authorname
+            'author' : response.author,
+            'authorName' : response.authorname
           });
         }
        });

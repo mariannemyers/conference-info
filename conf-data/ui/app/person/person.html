@@ -16,13 +16,19 @@
         Email address: No details provided
     </div>
     <br/>
+    <div ng-if="model.paperDetails.length > 0">
     Papers:
-  <ul>
-      <li ng-repeat="data in model.confData">
-        <a ng-href="/paper?iri={{data.pub}}">{{data.title}}</a>
-         Coauthor: <a ng-href="/person?iri={{data.coauthor}}">{{data.coauthorname}}</a>
-      </li>
-  </ul>
+      <ul>
+          <li ng-repeat="detail in model.paperDetails">
+            <a ng-href="/paper?iri={{detail.iri}}">{{detail.title}}</a>
+             <br/>
+             Coauthors:
+              <div ng-repeat="author in detail.authors">
+                <a ng-href="/person?iri={{author.iri}}">{{author.name}}</a>
+              </div>
+          </li>
+      </ul>
+    </div>
   <br/>
   View triples for <a ng-href="/triples?iri={{model.person}}">{{model.name}}</a>
 </div>
