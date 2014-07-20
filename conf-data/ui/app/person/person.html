@@ -16,6 +16,13 @@
         Email address: No details provided
     </div>
     <br/>
+    Roles:
+    <ul>
+        <li ng-repeat="role in model.roles">
+            <a ng-href="/triples?iri={{role.role}}">{{role.role}}</a> at <a ng-href="/triples?iri={{role.conf}}">{{role.confname}}</a>
+        </li>
+    </ul>
+    <br/>
     <div ng-if="model.paperDetails.length > 0">
     Papers:
       <ul>

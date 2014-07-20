@@ -340,6 +340,20 @@
                 params: options
               });
           },
+          getRoles: function(iri, options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json',
+              'rs:iri': iri
+            });
+            return $http.get(
+              '/v1/resources/roles',
+              {
+                params: options
+              });
+          },
           getPersons: function(options) {
             if (options === undefined || options === null) {
               options = {};

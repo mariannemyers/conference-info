@@ -5,10 +5,10 @@
       <!-- TODO: make this a link only if it contains http:// -->
       <li ng-repeat="triple in model.triples">
 
-        <div ng-if="triple.o.indexOf('http') > -1">
+        <div ng-if="triple.o.indexOf('data.semanticweb.org') > -1">
             {{triple.p}} : <a ng-href="/triples?iri={{triple.o}}">{{triple.o}}</a>
         </div>
-        <div ng-if="triple.o.indexOf('http') === -1">
+        <div ng-if="triple.o.indexOf('data.semanticweb.org') === -1">
             {{triple.p}} : {{triple.o}}
       </li>
   </ul>
