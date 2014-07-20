@@ -106,8 +106,6 @@ function comment:get(
 {
   let $uri := map:get($params, "uri")
   let $doc := fn:doc($uri)
-  let $log := xdmp:log($uri)
-  let $log := xdmp:log($doc)
   let $doc :=
     if(fn:exists($doc))
     then

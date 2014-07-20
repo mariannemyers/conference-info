@@ -214,6 +214,7 @@ exports.buildExpress = function(options) {
   app.use('/triples', express.static('ui/app'));
   app.use('/person', express.static('ui/app'));
   app.use('/paper', express.static('ui/app'));
+  app.use('/comments', express.static('ui/app'));
   return app;
 };
 

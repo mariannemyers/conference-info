@@ -1,13 +1,15 @@
 <div class="row detail">
-  <!-- display JSON data -->
-  <P>Triples!!</p>
-  <!-- <json-explorer json-data="{{model.detail}}"></json-explorer> -->
+  <h3>Triples for {{model.iri}}</h3>
 
   <ul>
       <!-- TODO: make this a link only if it contains http:// -->
       <li ng-repeat="triple in model.triples">
-        {{triple.p}} :
-	    <a ng-href="/triples?iri={{triple.o}}">{{triple.o}}</a>
+
+        <div ng-if="triple.o.indexOf('http') > -1">
+            {{triple.p}} : <a ng-href="/triples?iri={{triple.o}}">{{triple.o}}</a>
+        </div>
+        <div ng-if="triple.o.indexOf('http') === -1">
+            {{triple.p}} : {{triple.o}}
       </li>
   </ul>
 

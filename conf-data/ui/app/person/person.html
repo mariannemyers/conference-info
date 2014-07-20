@@ -1,17 +1,28 @@
 <div class="row detail">
   <h3> {{model.name}}</h3>
   <br/>
-    Based Near: {{model.basedNear}}
+    <div ng-if="model.basedNear.indexOf('dbpedia') > -1">
+        Based near: <a ng-href="{{model.basedNear}}" target="_blank">{{model.basedNear}}</a>
+    </div>
+    <div ng-if="model.basedNear.indexOf('dbpedia') === -1">
+        Based Near: {{model.basedNear}}
+    </div>
     <br/>
     <img src={{model.depiction}} align="right"/>
-  Email: <a ng-href="{{model.mbox}}">Email this person</a>
+    <div ng-if="model.mbox.indexOf('mailto') > -1">
+        <a ng-href="{{model.mbox}}">Email this person</a>
+    </div>
+    <div ng-if="model.mbox.indexOf('mailto') === -1">
+        Email address: No details provided
+    </div>
+    <br/>
+    Papers:
   <ul>
       <li ng-repeat="data in model.confData">
-        <a ng-href="/paper?paper={{data.pub}}">{{data.title}}</a>
-         Coauthor: <a ng-href="/person?person={{data.coauthor}}">{{data.coauthorname}}</a>
+        <a ng-href="/paper?iri={{data.pub}}">{{data.title}}</a>
+         Coauthor: <a ng-href="/person?iri={{data.coauthor}}">{{data.coauthorname}}</a>
       </li>
   </ul>
-
-    <!-- TODO: Add the ability to look at this person as just a triple. -->
-
+  <br/>
+  View triples for <a ng-href="/triples?iri={{model.person}}">{{model.name}}</a>
 </div>

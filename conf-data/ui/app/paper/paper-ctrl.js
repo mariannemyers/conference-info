@@ -3,11 +3,11 @@
 
   angular.module('sample.paper')
     .controller('PaperCtrl', ['$scope', 'MLRest', '$routeParams', function ($scope, mlRest, $routeParams) {
-      var paper = $routeParams.paper;
+      var paper = $routeParams.iri;
       var model = {
         // your model stuff here
         detail: {},
-        paper: $routeParams.paper,
+        paper: paper,
         title: '',
         authors: [],
         month: '',

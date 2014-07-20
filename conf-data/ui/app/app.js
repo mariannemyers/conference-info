@@ -2,7 +2,7 @@
 angular.module('sample', [
   'ngRoute', 'ngCkeditor', 'sample.user', 'sample.search', 'sample.common', 'sample.detail',
   'ui.bootstrap', 'gd.ui.jsonexplorer', 'sample.create', 'sample.conferences', 'sample.conference',
-  'sample.triples', 'sample.person', 'sample.paper'
+  'sample.triples', 'sample.person', 'sample.paper', 'sample.comments'
 ])
   .config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {
 
@@ -45,6 +45,10 @@ angular.module('sample', [
       .when('/paper', {
         templateUrl: '/paper/paper.html',
         controller: 'PaperCtrl'
+      })
+      .when('/comments', {
+        templateUrl: '/comments/comments.html',
+        controller: 'CommentsCtrl'
       })
       .otherwise({
         redirectTo: '/'

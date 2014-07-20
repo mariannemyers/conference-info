@@ -18,15 +18,27 @@ $params  as map:map
     let $graphs := cts:collections()
     let $maps :=
         for $graph in $graphs
+        let $query-params :=
+          map:new(map:entry("graphname",
+            sem:iri($graph)))
+
+        let $result := sem:sparql('
+          PREFIX swc: <http://data.semanticweb.org/ns/swc/ontology#>
+          PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+          SELECT ?name
+          WHERE {
+              ?conf swc:completeGraph ?graphname .
+              ?conf rdfs:label ?name .
+          }
+        ', $query-params)
+
         return
-            map:new((
-              (: map:entry("conference",( :)
-                    (: TODO: Need a map that has all titles of graphs mgm :)
-                    map:entry("name", "11th ESWC 2014"),
-                    map:entry("graph", $graph)
-                    (:    ) :)
-                )
-            )
+          map:new((
+            $result,
+            map:entry("graph", $graph)
+          )
+          )
     let $map := map:map()
     let $put := map:put($map, "conferences", $maps)
     return document {  xdmp:to-json($map) }
