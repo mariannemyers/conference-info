@@ -340,6 +340,19 @@
                 params: options
               });
           },
+          getPersons: function(options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json'
+            });
+            return $http.get(
+              '/v1/resources/persons',
+              {
+                params: options
+              });
+          },
           getPaper: function(paper, options) {
             if (options === undefined || options === null) {
               options = {};

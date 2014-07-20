@@ -22,7 +22,7 @@
           <li ng-repeat="detail in model.paperDetails">
             <a ng-href="/paper?iri={{detail.iri}}">{{detail.title}}</a>
              <br/>
-             Coauthors:
+             Coauthor(s)
               <div ng-repeat="author in detail.authors">
                 <a ng-href="/person?iri={{author.iri}}">{{author.name}}</a>
               </div>

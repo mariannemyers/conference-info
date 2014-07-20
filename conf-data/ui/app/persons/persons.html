@@ -1,0 +1,11 @@
+There are {{model.persons.length}} people associated with conferences
+<br/>
+<meta charset='utf-8'>
+<div>
+
+      <span ng-repeat="person in model.persons">
+	    <a ng-href="/person?iri={{person.iri}}">{{person.name}}</a>
+        <span ng-show="!$last">,</span>
+      </span>
+
+</div>
