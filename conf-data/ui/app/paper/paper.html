@@ -5,7 +5,9 @@
   <br/>
     Publication Date: {{model.month}} {{model.year}}
   <br/>
+  <div ng-if="model.hashtag">
   Search <a ng-href="http://twitter.com/hashtag/{{model.hashtag}}" target="_blank">#{{model.hashtag}}</a> on twitter.
+  </div>
   <br/>
     Authors:
   <ul>
