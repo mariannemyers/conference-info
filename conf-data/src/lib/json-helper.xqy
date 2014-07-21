@@ -64,15 +64,7 @@ function json-helper:add-to-array(
     then
       xdmp:node-insert-child($array-section,$json-xml)
     else
-      (: TODO: This really is the wrong place for this  mgm :)
-      let $doc :=
-        <json type="object" xmlns="http://marklogic.com/xdmp/json/basic">
-          <comments type="array">
-            {$json-xml}
-          </comments>
-        </json>
-      return xdmp:document-insert($doc-uri, $doc)
-      (: ) fn:error((),"ARRAY NOT FOUND", ("doc-uri="||$doc-uri,"array-name="||$json-array-name)):)
+      fn:error((),"ARRAY NOT FOUND", ("doc-uri="||$doc-uri,"array-name="||$json-array-name))
 };
 
 

@@ -2,7 +2,7 @@
   'use strict';
 
   angular.module('sample.paper')
-    .controller('PaperCtrl', ['$scope', 'MLRest', '$routeParams', function ($scope, mlRest, $routeParams) {
+    .controller('PaperCtrl', ['$scope', 'MLRest', 'User', '$routeParams', function ($scope, mlRest, user, $routeParams) {
       var paper = $routeParams.iri;
       var model = {
         // your model stuff here
@@ -12,15 +12,10 @@
         authors: [],
         month: '',
         year: '',
-        hashtag: ''
+        hashtag: '',
+        user: user
       };
-      var settings = {
-        'method':'GET',
-        'data': 'application/json',
-        headers: {
-          'Content-Type': 'application/json'
-        }
-      };
+
       mlRest.getPaper(paper, { format: 'json' }).then(function(response) {
         model.detail = response.data;
           if(response.data instanceof Array) {

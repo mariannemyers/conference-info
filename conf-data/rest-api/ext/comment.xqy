@@ -38,8 +38,20 @@ function comment:post(
   let $json-xml := json:transform-from-json(fn:string($input))
   (: populate default meta information :)
   let $populated-xml as element() := json-helper:populate-meta-fields($json-xml)
-  (: insert comment, but first create a document to store it in if this is the first one.  :)
-  let $insert-noop := json-helper:add-to-array($uri,'comments',$populated-xml)
+  (: Check to see if this comment actually exists.  If not, create the comment XML and insert :)
+  let $insert-noop :=
+    if (fn:doc($uri))
+    then
+      json-helper:add-to-array($uri,'comments',$populated-xml)
+    else
+      let $doc :=
+        <json type="object" xmlns="http://marklogic.com/xdmp/json/basic">
+          <comments type="array">
+            {$populated-xml}
+          </comments>
+        </json>
+      return xdmp:document-insert($uri, $doc)
+
   return (
     xdmp:set-response-code(200, "OK"),
     document { json:transform-to-json($populated-xml) }

@@ -23,7 +23,11 @@ $params  as map:map
       sem:iri($iri))
      )
     let $triples := sem:sparql-values("select * { ?s ?p ?o }",$bindings)
-    return document { xdmp:to-json($triples) }
+    let $log := xdmp:log($triples)
+    return (
+      xdmp:set-response-code(200, "OK"),
+      document { xdmp:to-json($triples)}
+    )
 };
 
 declare function triples:put(

@@ -1,8 +1,9 @@
 <div class="row detail">
+  <div ng-controller="TriplesCtrl">
   <h3>Triples for {{model.iri}}</h3>
 
   <ul>
-      <!-- TODO: make this a link only if it contains http:// -->
+      <!-- Create a link only if it contains a navigable triple for this dataset -->
       <li ng-repeat="triple in model.triples">
 
         <div ng-if="triple.o.indexOf('data.semanticweb.org') > -1">
@@ -10,17 +11,21 @@
         </div>
         <div ng-if="triple.o.indexOf('data.semanticweb.org') === -1">
             {{triple.p}} : {{triple.o}}
+        </div>
+
       </li>
   </ul>
-
+  </div>
 </div>
 
-<section class="comments col-md-12">
-    <h3>Comments</h3>
-    <add-comment add-model="model.additionalComment.msg" authenticated="model.user.authenticated" save="addComment(model.additionalComment)"></add-comment>
-    <article class="comment" ng-repeat="comment in model.demo.comments | orderBy:'-dateTime'" data-id="{{comment.id}}">
-        <h4>Comment by {{comment.username}}</h4>
-        <p class="dateTime">on {{comment.dateTime}}</p>
-        <editable enabled="model.user.authenticated && model.user.name === comment.username" edit-model="comment.msg" edit-type="textarea" save="updateItemInArray('comment', comment.id, 'msg', comment.msg)"/>
-    </article>
-</section>
+<div ng-controller="CommentsCtrl">
+    <section class="comments col-md-12">
+        <h3>Comments</h3>
+        <add-comment add-model="model.additionalComment.msg" authenticated="model.user.authenticated" save="addComment(model.additionalComment)"></add-comment>
+        <article class="comment" ng-repeat="comment in model.comments | orderBy:'-dateTime'" data-id="{{comment.id}}">
+            <h4>Comment by {{comment.username}}</h4>
+            <p class="dateTime">on {{comment.dateTime}}</p>
+            <editable enabled="model.user.authenticated && model.user.name === comment.username" edit-model="comment.msg" edit-type="textarea" save="updateItemInArray('comment', comment.id, 'msg', comment.msg)"/>
+        </article>
+    </section>
+</div>

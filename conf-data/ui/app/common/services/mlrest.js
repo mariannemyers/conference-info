@@ -270,7 +270,6 @@
                 params: options
               });
           },
-          // TODO: Make this cleaner.  Your response must be a well formatted HTTP response, and this handles it. mgm
           getConferences: function(options) {
             if (options === undefined || options === null) {
               options = {};
@@ -465,7 +464,6 @@
             )
             .success(
               function(data, status, headers, config) {
-                console.log("Success!");
                 d.resolve(data);
               })
             .error(function(reason) {

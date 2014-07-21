@@ -17,14 +17,8 @@
       };
       var model = {
         // your model stuff here
-        detail: {},
-        triples: {},
         iri: iri,
-        // TODO: Cleanup demo stuff in here mgm
-        demo: {
-          comments:[],
-          bugs:[]
-        },
+        comments: [],
         additionalComment: commentModel,
         user: user
       };
@@ -39,15 +33,11 @@
             'Content-Type': 'application/json'
           }
         }).then(function(response) {
-          model.demo.comments = response.comments;
+          model.comments = response.comments;
       });
 
       angular.extend($scope, {
         model: model,
-
-        showBugForm: false,
-
-        showClosedBugs: false,
 
         saveField: function(field, value) {
           var content = {};
@@ -111,41 +101,12 @@
             .then(function() {item = null;});
         },
 
-        addBug: function(bug) {
-          // add comments array if it doesn't exist
-          // this is for demos created before adding comments
-          if (typeof $scope.model.demo.bugs === 'undefined') {
-            $scope.insertField('', {'bugs':[]},'last-child');
-            $scope.model.demo.bugs = [];
-          }
-          // send comment to server
-          // reset the comment form after the comment is sent
-          mlRest.callExtension('file-bug',
-            {
-              method: 'POST',
-              data: bug,
-              params: {
-                'rs:uri': uri
-              },
-              headers: {
-                'Content-Type': 'application/json'
-              }
-            }
-          ).then(
-            function(result){
-              $scope.addToDemoArray('bugs',result);
-              $scope.model.additionalBug.msg = '';
-              $scope.model.additionalBug.browser = '';
-            }
-          );
-        },
-
         addComment: function(comment) {
           // add comments array if it doesn't exist
           // this is for demos created before adding comments
-          if (typeof $scope.model.demo.comments === 'undefined') {
+          if (typeof $scope.model.comments === 'undefined') {
             $scope.insertField('', {'comments':[]},'last-child');
-            $scope.model.demo.comments = [];
+            $scope.model.comments = [];
           }
           // send comment to server
           // reset the comment form after the comment is sent
@@ -183,11 +144,11 @@
         },
 
         addToDemoArray: function(arrayName, item) {
-          $scope.model.demo[arrayName].push(item);
+          $scope.model[arrayName].push(item);
         },
 
         resetCommentForm: function(result) {
-          // add the comment to the demo model to update UI
+          // add the comment to the model to update UI
           $scope.addToDemoArray('comments',result);
           $scope.model.additionalComment.msg = '';
         }
