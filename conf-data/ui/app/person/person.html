@@ -33,14 +33,6 @@
               <div ng-repeat="author in detail.authors">
                 <a ng-href="/person?iri={{author.iri}}">{{author.name}}</a>
               </div>
-              <div ng-if="detail.comments">
-                  Comment(s) on paper
-                  <article class="comment" ng-repeat="comment in detail.comments | orderBy:'-dateTime'" data-id="{{comment.id}}">
-                      <h4>Comment by {{comment.username}}</h4>
-                      <p class="dateTime">on {{comment.dateTime}}</p>
-                      <p>{{comment.msg}}</p>
-                  </article>
-              </div>
           </li>
       </ul>
     </div>

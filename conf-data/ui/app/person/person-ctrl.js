@@ -90,19 +90,6 @@
               iri: model.confData[i].coauthor
             }
             paperDetail.authors.push(coauthor);
-            // Get any comments associated with this paper
-            mlRest.callExtension('comment',
-              {
-                method: 'GET',
-                params: {
-                  'rs:uri': '/comments/' +  model.confData[i].pub
-                },
-                headers: {
-                  'Content-Type': 'application/json'
-                }
-              }).then(function(response) {
-                paperDetail.comments = response.comments;
-              });
             prev = model.confData[i].pub;
           }
           // Add the last one on that was built
