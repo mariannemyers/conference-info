@@ -381,6 +381,19 @@
                 params: options
               });
           },
+          getPapers: function(options) {
+            if (options === undefined || options === null) {
+              options = {};
+            }
+            angular.extend(options, {
+              format: 'json'
+            });
+            return $http.get(
+              '/v1/resources/papers',
+              {
+                params: options
+              });
+          },
           createDocument: function(doc, options) {
             // send a POST request to /v1/documents
             return $http.post(

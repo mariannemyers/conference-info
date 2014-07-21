@@ -40,6 +40,7 @@
           }
         }
         else {
+          // Person does not have any special characters in their name
           model.name = response.data.name;
           if(response.data.based_near) {
             model.basedNear = response.data.based_near;

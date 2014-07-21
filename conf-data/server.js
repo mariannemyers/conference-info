@@ -216,6 +216,7 @@ exports.buildExpress = function(options) {
   app.use('/paper', express.static('ui/app'));
   app.use('/comments', express.static('ui/app'));
   app.use('/persons', express.static('ui/app'));
+  app.use('/papers', express.static('ui/app'));
   return app;
 };
 
