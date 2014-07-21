@@ -25,13 +25,436 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/persons/persons.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/persons.xqy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/roles.xqy" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.settings\.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.settings\org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\.settings\org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\CHANGELOG.mdown" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\README.mdown" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\CHANGELOG.mdown" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\README.mdown" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\app_specific.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\Help.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\MLClient.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\RoxyHttp.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\framework.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\corb.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\marklogic-xcc-5.0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\recordloader.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\xpp3-1.1.4c.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\xqsync.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\xstream-1.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Array.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\FalseClass.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Hash.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Key.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\NilClass.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Numeric.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\String.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\TrueClass.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\add\core.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\add\rails.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\common.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\editor.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\ext.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\json.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\pure.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\pure\generator.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\pure\parser.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\version.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\ml.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\ml_rest.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\scaffold.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\server_config.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\controller-function.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\controller.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\layout.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\layout.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\model-function.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\model.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\test.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.json.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.xml.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\upgrader.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\util.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\xcc.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\xquery\cpf.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\xquery\setup.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\ml-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\all.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\build.sample.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\ml-config.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\pipeline-config.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\properties.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\rest-ext.sample.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\rest-transform.sample.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\rest-transform.sample.xslt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml4-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml4-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml4-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml5-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml5-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml5-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml6-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml6-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml6-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml7-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml7-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml7-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\test_main.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\test_server_config.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\karma-e2e.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ml.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\rest-api\config\options\all.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\rest-api\config\properties.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\rest-api\transforms\detail.xslt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\server.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\common\common.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\common\services\mlrest.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\compile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\create-ctrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\create.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\create.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\detail\detail-ctrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\detail\detail.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\detail\detail.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\images\logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\facets-dir.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\facets-dir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\results-dir.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\results-dir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\search-ctrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\search.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\search.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\styles\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\styles\main.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\profile.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\profile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user-dir.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user-dir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user-srv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\runner.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\common\services\mlrest.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\controllers\create.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\controllers\detail.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\controllers\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\directives\facets.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\version.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\app_specific.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\Help.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\MLClient.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\RoxyHttp.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\framework.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\corb.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\marklogic-xcc-5.0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\recordloader.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\xpp3-1.1.4c.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\xqsync.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\xstream-1.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Array.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\FalseClass.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Hash.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Key.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\NilClass.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Numeric.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\String.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\TrueClass.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\add\core.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\add\rails.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\common.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\editor.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\ext.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\json.xpm" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\pure.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\pure\generator.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\pure\parser.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\version.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\ml.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\ml_rest.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\scaffold.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\server_config.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\controller-function.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\controller.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\layout.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\layout.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\model-function.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\model.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\test.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.json.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.xml.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\upgrader.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\util.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\xcc.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\xquery\cpf.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\xquery\setup.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\ml-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\all.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\build.sample.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\ml-config.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\pipeline-config.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\properties.sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\rest-ext.sample.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\rest-transform.sample.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\rest-transform.sample.xslt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml4-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml4-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml4-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml5-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml5-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml5-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml6-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml6-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml6-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml7-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml7-properties\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml7-properties\default.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\test_main.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\test_server_config.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\error.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\karma-e2e.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ml.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\config\options\all.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\config\properties.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\ext\user-login.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\ext\user-logout.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\ext\user-status.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\transforms\detail.xslt" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\server.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\config\config.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\controllers\appbuilder.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\models\search-lib.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\appbuilder\main.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\facet-lib.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\form-lib.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\pager-lib.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\user-lib.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\application.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\soap.xml.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\three-column.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\two-column.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\app.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\error.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_flat_10_000000_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_228ef1_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_ef8c08_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_ffd27a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.button.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.selectable.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\three-column.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\two-column.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\vars.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\3px_drop_shadow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\facet_close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\facet_green.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\ml-logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\mt_icon_search.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\toolbar_background_dark_gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\lib\jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\lib\jquery-ui-1.8.18.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\lib\less-1.3.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\three-column.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\two-column.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\config\defaults.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\error.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\controller-helper.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\cpf-private.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\cpf.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\date-parser.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\json.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\reflection.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\request.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\routing-helper.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\soap-lib.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\util.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\view-helper.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\no-op.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\query-router.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\rewrite.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\router.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\update-router.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\css\jquery.gritter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\css\tests.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\default.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\arrow-down.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\arrow-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\gritter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\icon-minus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\icon-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\ie-spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\warning.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\js\jquery-1.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\js\jquery.gritter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\js\tests.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\_test-pipeline1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\cpf.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\suite-setup.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\suite-teardown.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\routing.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\site-index.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\suite-setup.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\suite-teardown.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\different-layout-view.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\different-layout.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\different-view-xml-only.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\layout-with-bad-import.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\main.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\main.xml.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\missing-layout.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\missing-map.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\missing-variable.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\no-layout.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\search.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\test-layout.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\tester.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\view-that-returns-the-input.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\view-with-bad-import.html.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\util.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-all-exist.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-at-least-one-equal.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-equal.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-exists.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-false.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-meets-maximum-threshold.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-meets-minimum-threshold.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-not-equal.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-not-exists.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-throws-error.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-true.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\fail.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\success.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\checkbox.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\radio.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\text-area.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\text-input.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\pager-lib\paginate.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\pager-lib\pagination.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\lib-request-tests.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\suite-setup.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\suite-teardown.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\test-data\test-request.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\test-config.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\src\test\test-helper.xqy" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\common\common.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\common\services\mlrest.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\compile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\create-ctrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\create.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\create.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\detail\detail-ctrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\detail\detail.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\detail\detail.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\images\logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\facets-dir.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\facets-dir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\results-dir.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\results-dir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\search-ctrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\search.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\search.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\styles\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\styles\main.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\profile.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\profile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user-dir.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user-dir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user-srv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\runner.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\common\services\mlrest.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\controllers\create.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\controllers\detail.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\controllers\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\directives\facets.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\code\conference-info\version.txt" afterPath="" />
       <change type="MOVED" beforePath="C:\code\conference-info\conf-data\ui\app\paper\paper-ctrl.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/papers/papers-ctrl.js" />
       <change type="MOVED" beforePath="C:\code\conference-info\conf-data\ui\app\paper\paper.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/papers/papers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" afterPath="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/README.mdown" afterPath="$PROJECT_DIR$/conf-data/README.mdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/app.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/deploy/build.properties" afterPath="$PROJECT_DIR$/conf-data/deploy/build.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/app/create/compile.js" afterPath="$PROJECT_DIR$/ui/app/create/compile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/conference/conference.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/conference/conference.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" />
@@ -46,6 +469,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/triples/triples.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/triples/triples.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/version.txt" afterPath="$PROJECT_DIR$/conf-data/version.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="conference-info.iws" />
@@ -89,21 +513,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ml-config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ml-config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf-data/deploy/ml-config.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8483">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf-data/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.mdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.mdown">
+      <file leaf-file-name=".gitattributes" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".editorconfig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/.editorconfig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".bowerrc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/.bowerrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="136">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -132,7 +586,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/conf-data/ui/app/triples/conference.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/triples/triples.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/triples/editable.html" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/person/person.js" />
@@ -183,6 +636,7 @@
         <option value="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" />
         <option value="$PROJECT_DIR$/conf-data/README.mdown" />
         <option value="$PROJECT_DIR$/conf-data/deploy/build.properties" />
+        <option value="$PROJECT_DIR$/conf-data/version.txt" />
       </list>
     </option>
   </component>
@@ -247,24 +701,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="conf-data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conference-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conference-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf-data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="deploy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,16 +830,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/test/spec/controllers/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/ui/test/spec/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
@@ -733,14 +1159,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/error.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3876">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/interesting queries.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="721">
@@ -753,30 +1171,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3179">
           <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui/app/create/compile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54986525" vertical-offset="0" max-vertical-offset="742">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CHANGELOG.mdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1989">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.mdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -805,9 +1199,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/version.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/deploy/ml-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8483">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
