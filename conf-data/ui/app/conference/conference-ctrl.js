@@ -2,21 +2,16 @@
   'use strict';
 
   angular.module('sample.conference')
-    .controller('ConferenceCtrl', ['$scope', 'MLRest', '$routeParams', function ($scope, mlRest, $routeParams) {
+    .controller('ConferenceCtrl', ['$scope', 'MLRest', 'User', '$routeParams', function ($scope, mlRest, user, $routeParams) {
       var graph = $routeParams.graph;
       var model = {
         // your model stuff here
         detail: {},
         papers: {},
-        graph: graph
+        graph: graph,
+        user: user
       };
-      var settings = {
-        'method':'GET',
-        'data': 'application/json',
-        headers: {
-          'Content-Type': 'application/json'
-        }
-      };
+
       mlRest.getConference(graph, { format: 'json' }).then(function(response) {
       //mlRest.callExtension('conferences', settings).then(function(response) {
         model.detail = response.data;

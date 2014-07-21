@@ -1,8 +1,6 @@
-<div class="row detail">
-  <!-- display JSON data -->
+<div class="row detail" ng-show="model.user.authenticated">
   <P>There are {{model.papers.length}} conference proceedings for this conference</p>
-  <!-- <json-explorer json-data="{{model.detail}}"></json-explorer> -->
-  
+
   <ul>
       <li ng-repeat="paper in model.papers">
 	    <a ng-href="/paper?iri={{paper.s}}">{{paper.title}}</a>

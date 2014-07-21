@@ -2,28 +2,31 @@
   'use strict';
 
   angular.module('sample.conferences')
-    .controller('ConferencesCtrl', ['$scope', 'MLRest', '$routeParams', function ($scope, mlRest, $routeParams) {
+    .controller('ConferencesCtrl', ['$scope', 'MLRest', 'User', '$routeParams', function ($scope, mlRest, user, $routeParams) {
       var model = {
         // your model stuff here
         detail: {},
-        conferences: {}
+        conferences: {},
+        user: user
       };
-      var settings = {
-        'method':'GET',
-        'data': 'application/json',
-        headers: {
-          'Content-Type': 'application/json'
-        }
-      };
-      mlRest.getConferences( { format: 'json' }).then(function(response) {
-      //mlRest.callExtension('conferences', settings).then(function(response) {
-        model.detail = response.data;
-        model.conferences = response.data.conferences;
-      });
+
+      function getConferences(){
+        mlRest.getConferences( { format: 'json' }).then(function(response) {
+          model.detail = response.data;
+          model.conferences = response.data.conferences;
+        });
+      }
+
+      getConferences();
 
       angular.extend($scope, {
         model: model
 
+      });
+
+      $scope.$watch('model.user.authenticated', function(newValue, oldValue) {
+        // The user logged in.
+        getConferences();
       });
     }]);
 }());

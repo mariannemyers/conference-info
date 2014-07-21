@@ -2,7 +2,7 @@
   'use strict';
 
   angular.module('sample.person')
-    .controller('PersonCtrl', ['$scope', 'MLRest', '$routeParams', function ($scope, mlRest, $routeParams) {
+    .controller('PersonCtrl', ['$scope', 'MLRest', 'User', '$routeParams', function ($scope, mlRest, user, $routeParams) {
       var person = $routeParams.iri;
       var model = {
         // your model stuff here
@@ -15,15 +15,10 @@
         affiliation: 'No details provided',
         mbox: '',
         roles: [],
-        paperDetails: []
+        paperDetails: [],
+        user: user
       };
-      var settings = {
-        'method':'GET',
-        'data': 'application/json',
-        headers: {
-          'Content-Type': 'application/json'
-        }
-      };
+
       mlRest.getPerson(person).then(function(response) {
         // Some people have "two" names - Raphael Troncy and Raphaël Troncy
         if(jQuery.isArray(response.data)) {

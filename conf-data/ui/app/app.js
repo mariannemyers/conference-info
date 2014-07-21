@@ -12,7 +12,7 @@ angular.module('sample', [
 
     $routeProvider
       .when('/', {
-        templateUrl: '/search/search.html'
+        templateUrl: '/conferences/conferences.html'
       })
       .when('/create', {
         templateUrl: '/create/create.html',

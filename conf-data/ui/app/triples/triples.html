@@ -1,24 +1,25 @@
-<div class="row detail">
+<div class="row detail" ng-show="model.user.authenticated">
+
   <div ng-controller="TriplesCtrl">
-  <h3>Triples for {{model.iri}}</h3>
+      <h3>Triples for {{model.iri}}</h3>
 
-  <ul>
-      <!-- Create a link only if it contains a navigable triple for this dataset -->
-      <li ng-repeat="triple in model.triples">
+      <ul>
+          <!-- Create a link only if it contains a navigable triple for this dataset -->
+          <li ng-repeat="triple in model.triples">
 
-        <div ng-if="triple.o.indexOf('data.semanticweb.org') > -1">
-            {{triple.p}} : <a ng-href="/triples?iri={{triple.o}}">{{triple.o}}</a>
-        </div>
-        <div ng-if="triple.o.indexOf('data.semanticweb.org') === -1">
-            {{triple.p}} : {{triple.o}}
-        </div>
+            <div ng-if="triple.o.indexOf('data.semanticweb.org') > -1">
+                {{triple.p}} : <a ng-href="/triples?iri={{triple.o}}">{{triple.o}}</a>
+            </div>
+            <div ng-if="triple.o.indexOf('data.semanticweb.org') === -1">
+                {{triple.p}} : {{triple.o}}
+            </div>
 
-      </li>
-  </ul>
+          </li>
+      </ul>
   </div>
 </div>
 
-<div ng-controller="CommentsCtrl">
+<div ng-controller="CommentsCtrl"ng-show="model.user.authenticated">
     <section class="comments col-md-12">
         <h3>Comments</h3>
         <add-comment add-model="model.additionalComment.msg" authenticated="model.user.authenticated" save="addComment(model.additionalComment)"></add-comment>

@@ -1,4 +1,4 @@
-<div class="row detail">
+<div class="row detail" ng-show="model.user.authenticated">
   <h3> {{model.name}}</h3>
   <br/>
     <div ng-if="model.basedNear.indexOf('dbpedia') > -1">
@@ -16,7 +16,7 @@
         Email address: No details provided
     </div>
     <br/>
-    Roles:
+    <h4>Roles:</h4>
     <ul>
         <li ng-repeat="role in model.roles">
             <a ng-href="/triples?iri={{role.role}}">{{role.role}}</a> at <a ng-href="/triples?iri={{role.conf}}">{{role.confname}}</a>
@@ -24,7 +24,7 @@
     </ul>
     <br/>
     <div ng-if="model.paperDetails.length > 0">
-    Papers:
+    <h4>Papers:</h4>
       <ul>
           <li ng-repeat="detail in model.paperDetails">
             <a ng-href="/paper?iri={{detail.iri}}">{{detail.title}}</a>

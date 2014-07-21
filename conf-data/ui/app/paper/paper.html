@@ -1,6 +1,6 @@
-<div class="row detail">
+<div class="row detail" ng-show="model.user.authenticated">
   <div ng-controller="PaperCtrl">
-  <P>Details for a conference proceedings</p>
+  <P>Details for a conference proceeding</p>
   <h3>{{model.title}}</h3>
   <br/>
     Publication Date: {{model.month}} {{model.year}}
@@ -9,14 +9,14 @@
   Search <a ng-href="http://twitter.com/hashtag/{{model.hashtag}}" target="_blank">#{{model.hashtag}}</a> on twitter.
   </div>
   <br/>
-    Authors:
+  <h4> Authors: </h4>
   <ul>
       <li ng-repeat="author in model.authors">
 	    <a ng-href="/person?iri={{author.author}}">{{author.authorName}}</a>
       </li>
   </ul>
 
-    View triples for <a ng-href="/triples?iri={{model.paper}}">this paper</a>
+    See all <a ng-href="/triples?iri={{model.paper}}"> triples</a> for this paper.
   </div>
   <div ng-controller="CommentsCtrl">
     <section class="comments col-md-12">
