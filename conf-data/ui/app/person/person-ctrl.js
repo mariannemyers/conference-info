@@ -70,13 +70,6 @@
           else
             model.confData = response.data;
 
-          // Sort the array by the paper's IRI
-          model.confData.sort(function (a, b) {
-            var a1 = a.pub, b1 = b.pub;
-            if (a1 == b1) return 0;
-            return a1 > b1 ? 1 : -1;
-          });
-
           // Now collapse the triples
           var prev = '';
           var paperDetail = '';

@@ -33,7 +33,7 @@ $params  as map:map
                 ?pub dc:title ?title .
                 ?pub swc:isPartOf ?proceedings .
                 FILTER ( ?subject != ?coauthor) .
-              }
+              } order by asc(?pub)
       ", $query-params)
     return document { xdmp:to-json($result) }
 };

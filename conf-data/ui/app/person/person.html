@@ -29,16 +29,18 @@
           <li ng-repeat="detail in model.paperDetails">
             <a ng-href="/paper?iri={{detail.iri}}">{{detail.title}}</a>
              <br/>
-             Coauthor(s)
+              Coauthor(s)
               <div ng-repeat="author in detail.authors">
                 <a ng-href="/person?iri={{author.iri}}">{{author.name}}</a>
               </div>
-              Comment(s) on paper
-              <article class="comment" ng-repeat="comment in detail.comments | orderBy:'-dateTime'" data-id="{{comment.id}}">
-                  <h4>Comment by {{comment.username}}</h4>
-                  <p class="dateTime">on {{comment.dateTime}}</p>
-                  <editable enabled="model.user.authenticated && model.user.name === comment.username" edit-model="comment.msg" edit-type="textarea" save="updateItemInArray('comment', comment.id, 'msg', comment.msg)"/>
-              </article>
+              <div ng-if="detail.comments">
+                  Comment(s) on paper
+                  <article class="comment" ng-repeat="comment in detail.comments | orderBy:'-dateTime'" data-id="{{comment.id}}">
+                      <h4>Comment by {{comment.username}}</h4>
+                      <p class="dateTime">on {{comment.dateTime}}</p>
+                      <p>{{comment.msg}}</p>
+                  </article>
+              </div>
           </li>
       </ul>
     </div>
