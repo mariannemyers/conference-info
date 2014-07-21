@@ -47,8 +47,8 @@
             }
           }
           model.authors.push( {
-            'author' : response.author,
-            'authorName' : response.authorname
+            'author' : response.data.author,
+            'authorName' : response.data.authorname
           });
         }
        });
