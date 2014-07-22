@@ -11,7 +11,7 @@
       };
 
       function getConferences(){
-        mlRest.getConferences( { format: 'json' }).then(function(response) {
+        mlRest.getConferences().then(function(response) {
           model.detail = response.data;
           model.conferences = response.data.conferences;
         });

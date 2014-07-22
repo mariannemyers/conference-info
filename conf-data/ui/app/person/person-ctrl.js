@@ -49,13 +49,13 @@
         }
 
       });
-      mlRest.getRoles(person,{ format: 'json' }).then(function(response) {
+      mlRest.getRoles(person).then(function(response) {
         if(!jQuery.isArray(response.data))
           model.roles = [response.data];
         else
           model.roles = response.data
       });
-      mlRest.getPersonDetail(person, { format: 'json' }).then(function(response) {
+      mlRest.getPersonDetail(person).then(function(response) {
         model.detail = response.data;
         // The person may not be an author, so the data is a string "null"
         if(response.data !== "null") {

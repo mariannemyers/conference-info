@@ -51,7 +51,6 @@ function comment:post(
           </comments>
         </json>
       return xdmp:document-insert($uri, $doc)
-
   return (
     xdmp:set-response-code(200, "OK"),
     document { json:transform-to-json($populated-xml) }
@@ -71,7 +70,8 @@ function comment:put(
 {
   map:put($context, "output-types", "application/json"),
   let $uri as xs:string := xdmp:url-decode(map:get($params,"uri"))
-  let $id as xs:string := xdmp:url-decode(map:get($params,"id"))
+  (: Don't urldecode this.  The ID can have a + in it, which turns into a space.  Then this won't work:)
+  let $id as xs:string := map:get($params,"id")
   let $property as xs:string := xdmp:url-decode(map:get($params,"property"))
   let $value as xs:string := map:get(xdmp:from-json(fn:string($input)),"value")
   (: build property qn :)

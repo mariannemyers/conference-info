@@ -1,7 +1,7 @@
 <div class="row detail" ng-show="model.user.authenticated">
 
     There are {{model.persons.length}} people associated with conferences
-
+    <br/>
     <span ng-repeat="person in model.persons">
         <a ng-href="/person?iri={{person.iri}}">{{person.name}}</a>
         <span ng-show="!$last">,</span>

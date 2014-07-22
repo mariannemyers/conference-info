@@ -15,7 +15,7 @@
         user: user
       };
 
-      mlRest.getTriples(iri, { format: 'json' }).then(function(response) {
+      mlRest.getTriples(iri).then(function(response) {
         //mlRest.callExtension('conferences', settings).then(function(response) {
         model.detail = response.data;
         model.triples = response.data;

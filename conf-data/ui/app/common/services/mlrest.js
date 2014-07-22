@@ -275,7 +275,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json'
             });
             return $http.get(
               '/v1/resources/conferences',
@@ -288,7 +287,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json',
               'rs:graph': graph
             });
             return $http.get(
@@ -302,7 +300,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json',
               'rs:iri': iri
             });
             return $http.get(
@@ -316,7 +313,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json',
               'rs:person': person
             });
             return $http.get(
@@ -330,7 +326,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json',
               'rs:person': person
             });
             return $http.get(
@@ -344,7 +339,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json',
               'rs:iri': iri
             });
             return $http.get(
@@ -358,7 +352,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json'
             });
             return $http.get(
               '/v1/resources/persons',
@@ -371,7 +364,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json',
               'rs:paper': paper
             });
             return $http.get(
@@ -385,7 +377,6 @@
               options = {};
             }
             angular.extend(options, {
-              format: 'json'
             });
             return $http.get(
               '/v1/resources/papers',

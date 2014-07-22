@@ -25,436 +25,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/ui/app/persons/persons.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/persons.xqy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf-data/rest-api/ext/roles.xqy" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.project" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.settings\.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.settings\org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\.settings\org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\CHANGELOG.mdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\CHANGELOG.mdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\app_specific.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\Help.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\MLClient.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\RoxyHttp.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\framework.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\corb.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\marklogic-xcc-5.0.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\recordloader.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\xpp3-1.1.4c.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\xqsync.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\java\xstream-1.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Array.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\FalseClass.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Hash.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Key.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\NilClass.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\Numeric.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\String.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\TrueClass.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\add\core.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\add\rails.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\common.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\editor.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\ext.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\json.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\pure.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\pure\generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\pure\parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\json\version.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\ml.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\ml_rest.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\scaffold.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\server_config.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\controller-function.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\controller.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\layout.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\layout.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\model-function.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\model.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\test.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.json.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.xml.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\templates\view.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\upgrader.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\util.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\xcc.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\xquery\cpf.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\lib\xquery\setup.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\ml-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\all.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\build.sample.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\ml-config.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\pipeline-config.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\properties.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\rest-ext.sample.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\rest-transform.sample.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\sample\rest-transform.sample.xslt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml4-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml4-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml4-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml5-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml5-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml5-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml6-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml6-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml6-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml7-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml7-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\data\ml7-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\test_main.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\deploy\test\test_server_config.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\karma-e2e.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ml.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\rest-api\config\options\all.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\rest-api\config\properties.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\rest-api\transforms\detail.xslt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\common\common.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\common\services\mlrest.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\compile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\create-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\create.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\create\create.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\detail\detail-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\detail\detail.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\detail\detail.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\images\logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\facets-dir.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\facets-dir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\results-dir.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\results-dir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\search-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\search.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\search\search.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\styles\main.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\styles\main.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\profile.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\profile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user-dir.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user-dir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user-srv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\app\user\user.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\runner.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\common\services\mlrest.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\controllers\create.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\controllers\detail.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\controllers\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\ui\test\spec\directives\facets.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\conf-app\version.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\app_specific.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\Help.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\MLClient.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\RoxyHttp.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\framework.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\corb.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\marklogic-xcc-5.0.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\recordloader.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\xpp3-1.1.4c.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\xqsync.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\java\xstream-1.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Array.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\FalseClass.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Hash.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Key.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\NilClass.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\Numeric.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\String.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\TrueClass.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\add\core.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\add\rails.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\common.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\editor.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\ext.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\json.xpm" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\pure.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\pure\generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\pure\parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\json\version.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\ml.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\ml_rest.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\scaffold.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\server_config.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\controller-function.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\controller.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\layout.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\layout.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\model-function.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\model.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\test.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.json.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.xml.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\templates\view.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\upgrader.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\util.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\xcc.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\xquery\cpf.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\lib\xquery\setup.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\ml-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\all.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\build.sample.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\ml-config.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\pipeline-config.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\properties.sample.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\rest-ext.sample.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\rest-transform.sample.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\sample\rest-transform.sample.xslt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml4-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml4-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml4-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml5-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml5-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml5-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml6-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml6-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml6-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml7-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml7-properties\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\data\ml7-properties\default.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\test_main.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\deploy\test\test_server_config.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\error.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\karma-e2e.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ml.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\config\options\all.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\config\properties.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\ext\user-login.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\ext\user-logout.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\ext\user-status.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\rest-api\transforms\detail.xslt" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\config\config.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\controllers\appbuilder.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\models\search-lib.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\appbuilder\main.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\facet-lib.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\form-lib.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\pager-lib.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\helpers\user-lib.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\application.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\soap.xml.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\three-column.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\app\views\layouts\two-column.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\app.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\error.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_flat_10_000000_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_228ef1_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_ef8c08_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_ffd27a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\images\ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.all.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.button.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.core.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.resizable.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.selectable.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.slider.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\themes\ui-lightness\jquery.ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\three-column.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\two-column.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\css\vars.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\3px_drop_shadow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\facet_close.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\facet_green.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\ml-logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\mt_icon_search.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\images\toolbar_background_dark_gradient.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\lib\jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\lib\jquery-ui-1.8.18.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\lib\less-1.3.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\three-column.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\public\js\two-column.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\config\defaults.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\error.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\controller-helper.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\cpf-private.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\cpf.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\date-parser.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\json.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\reflection.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\request.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\routing-helper.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\soap-lib.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\util.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\lib\view-helper.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\no-op.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\query-router.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\rewrite.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\router.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\roxy\update-router.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\css\jquery.gritter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\css\tests.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\default.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\arrow-down.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\arrow-right.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\gritter.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\icon-minus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\icon-plus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\ie-spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\spinner.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\img\warning.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\js\jquery-1.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\js\jquery.gritter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\js\tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\_test-pipeline1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\cpf.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\suite-setup.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\CPF\suite-teardown.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\routing.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\site-index.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\suite-setup.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\suite-teardown.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\different-layout-view.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\different-layout.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\different-view-xml-only.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\layout-with-bad-import.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\main.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\main.xml.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\missing-layout.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\missing-map.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\missing-variable.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\no-layout.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\search.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\test-layout.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\tester.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\view-that-returns-the-input.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\test-data\view-with-bad-import.html.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Framework Tests\util.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-all-exist.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-at-least-one-equal.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-equal.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-exists.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-false.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-meets-maximum-threshold.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-meets-minimum-threshold.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-not-equal.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-not-exists.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-throws-error.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\assert-true.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\fail.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\Unit Test Tests\success.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\checkbox.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\radio.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\text-area.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\form-lib\text-input.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\pager-lib\paginate.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\pager-lib\pagination.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\lib-request-tests.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\suite-setup.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\suite-teardown.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\suites\request-lib\test-data\test-request.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\test-config.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\src\test\test-helper.xqy" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\common\common.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\common\services\mlrest.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\compile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\create-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\create.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\create\create.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\detail\detail-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\detail\detail.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\detail\detail.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\images\logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\facets-dir.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\facets-dir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\results-dir.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\results-dir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\search-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\search.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\search\search.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\styles\main.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\styles\main.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\profile.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\profile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user-dir.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user-dir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user-srv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\app\user\user.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\runner.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\common\services\mlrest.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\controllers\create.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\controllers\detail.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\controllers\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\ui\test\spec\directives\facets.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\code\conference-info\version.txt" afterPath="" />
       <change type="MOVED" beforePath="C:\code\conference-info\conf-data\ui\app\paper\paper-ctrl.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/papers/papers-ctrl.js" />
       <change type="MOVED" beforePath="C:\code\conference-info\conf-data\ui\app\paper\paper.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/papers/papers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" afterPath="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/README.mdown" afterPath="$PROJECT_DIR$/conf-data/README.mdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/app.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/deploy/build.properties" afterPath="$PROJECT_DIR$/conf-data/deploy/build.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/conference/conference.html" afterPath="$PROJECT_DIR$/conf-data/ui/app/conference/conference.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" afterPath="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" />
@@ -493,81 +68,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.mdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf-data/README.mdown">
+      <file leaf-file-name="mlrest.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="5313" max-vertical-offset="8177">
+              <caret line="356" column="38" selection-start-line="356" selection-start-column="38" selection-end-line="356" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf-data/deploy/build.properties">
+      <file leaf-file-name="comment.xqy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/comment.xqy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2295">
+              <caret line="72" column="102" selection-start-line="72" selection-start-column="102" selection-end-line="72" selection-end-column="102" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ml-config.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf-data/deploy/ml-config.xml">
+      <file leaf-file-name="person.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/person/person.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8483">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.4036313" vertical-offset="0" max-vertical-offset="782">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/conf-data/.gitignore">
+      <file leaf-file-name="person-ctrl.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/person/person-ctrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1819">
+              <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments-ctrl.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/comments-ctrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.56" vertical-offset="900" max-vertical-offset="2805">
+              <caret line="67" column="28" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search-ctrl.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/search-ctrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-comment.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/add-comment.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitattributes" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf-data/.gitattributes">
+      <file leaf-file-name="comments.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/comments.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".editorconfig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf-data/.editorconfig">
+      <file leaf-file-name="json-helper.xqy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/src/lib/json-helper.xqy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2618">
+              <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".bowerrc" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf-data/.bowerrc">
+      <file leaf-file-name="editable.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/editable.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="136">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="408">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CHANGELOG.mdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf-data/CHANGELOG.mdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -590,7 +185,6 @@
         <option value="$PROJECT_DIR$/conf-data/ui/app/triples/editable.html" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/person/person.js" />
         <option value="$PROJECT_DIR$/conf-data/rest-api/ext/paper.xqy" />
-        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/person.xqy" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/triples/add-comment.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/triples/editable.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/triples/add-comment.html" />
@@ -607,36 +201,37 @@
         <option value="$PROJECT_DIR$/conf-data/server.js" />
         <option value="$PROJECT_DIR$/conf-data/rest-api/ext/author-comments.xqy" />
         <option value="$PROJECT_DIR$/conf-data/rest-api/ext/author-detail.xqy" />
-        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/comments/comments-ctrl.js" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/comments/add-comment.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js" />
         <option value="$PROJECT_DIR$/conf-data/src/lib/json-helper.xqy" />
-        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/comment.xqy" />
         <option value="$PROJECT_DIR$/conf-data/ui/test/spec/controllers/detail.js" />
         <option value="$PROJECT_DIR$/conf-data/karma.conf.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/paper/paper-ctrl.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/app.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/index.html" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/papers/papers.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/papers/papers-ctrl.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/paper/paper.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/person/person.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/persons/persons.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/persons/persons-ctrl.js" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/person/person-ctrl.js" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/triples/triples.html" />
         <option value="$PROJECT_DIR$/conf-data/ui/app/conference/conference.html" />
-        <option value="$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js" />
         <option value="$PROJECT_DIR$/CHANGELOG.mdown" />
         <option value="$PROJECT_DIR$/conf-data/CHANGELOG.mdown" />
         <option value="$PROJECT_DIR$/conf-data/README.mdown" />
-        <option value="$PROJECT_DIR$/conf-data/deploy/build.properties" />
         <option value="$PROJECT_DIR$/conf-data/version.txt" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/paper/paper-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/papers/papers-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/person/person-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/persons/persons-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/persons/persons.html" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/index.html" />
+        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/person.xqy" />
+        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy" />
+        <option value="$PROJECT_DIR$/conf-data/deploy/build.properties" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/comments/comments-ctrl.js" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js" />
+        <option value="$PROJECT_DIR$/conf-data/rest-api/ext/comment.xqy" />
+        <option value="$PROJECT_DIR$/conf-data/ui/app/person/person.html" />
       </list>
     </option>
   </component>
@@ -704,6 +299,220 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="person" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -730,14 +539,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -748,14 +549,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -763,6 +562,16 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -801,11 +610,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -830,156 +639,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/test/spec/controllers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/test/spec/directives/facets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/test/helpers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/test/spec/controllers/detail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1411">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding>
-            <marker date="1404874405802" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1404874405802" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: ''...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/create/create.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/create/create-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/test/runner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/karma-e2e.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6296296" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/test/spec/common/services/mlrest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="2890">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/create/compile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/create/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/facets-dir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3134" max-vertical-offset="3876">
-          <caret line="189" column="41" selection-start-line="189" selection-start-column="41" selection-end-line="189" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/user/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/user/profile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/ui/app/user/profile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="8.423077" vertical-offset="219" max-vertical-offset="935">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,27 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/search-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="21" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="289">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,39 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.333333" vertical-offset="102" max-vertical-offset="1734">
-          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/papers/papers-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/paper/paper-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
-          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/person/person.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-          <caret line="0" column="58" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,31 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="289">
           <caret line="0" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/persons/persons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/person/person-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1819">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/persons/persons-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,14 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="646">
           <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.114555255" vertical-offset="0" max-vertical-offset="742">
-          <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
           <folding />
         </state>
       </provider>
@@ -1139,15 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="255">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1155,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598">
           <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="721">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3179">
           <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1191,27 +758,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/deploy/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf-data/version.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
           <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf-data/deploy/ml-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8483">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,6 +793,246 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conference/conference-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/conferences/conferences-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/paper/paper-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/papers/papers-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/persons/persons-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/persons/persons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="255">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/triples/triples-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="1598">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/author-detail.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23709902" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/triples.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42817295" vertical-offset="101" max-vertical-offset="986">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/person.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="356" max-vertical-offset="1122">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/papers.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23709902" vertical-offset="0" max-vertical-offset="986">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/paper.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23709902" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conferences.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23709902" vertical-offset="0" max-vertical-offset="1258">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/conference.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23709902" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/deploy/ml-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8483">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/deploy/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/add-comment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/config/options/all.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/editable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/editable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/src/lib/json-helper.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2618">
+          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/add-comment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/search/search-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/comments/comments-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.56" vertical-offset="900" max-vertical-offset="2805">
+          <caret line="67" column="28" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/common/services/mlrest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5313" max-vertical-offset="8177">
+          <caret line="356" column="38" selection-start-line="356" selection-start-column="38" selection-end-line="356" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/rest-api/ext/comment.xqy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2295">
+          <caret line="72" column="102" selection-start-line="72" selection-start-column="102" selection-end-line="72" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/person/person-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1819">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf-data/ui/app/person/person.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4036313" vertical-offset="0" max-vertical-offset="782">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>

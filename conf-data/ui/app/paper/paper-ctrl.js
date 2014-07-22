@@ -16,10 +16,9 @@
         user: user
       };
 
-      mlRest.getPaper(paper, { format: 'json' }).then(function(response) {
+      mlRest.getPaper(paper).then(function(response) {
         model.detail = response.data;
           if(response.data instanceof Array) {
-            // TODO: Is this the right way, or is my query wrong? mgm
             model.title = response.data[0].title;
             model.month = response.data[0].month;
             model.year = response.data[0].year;

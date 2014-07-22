@@ -12,8 +12,7 @@
         user: user
       };
 
-      mlRest.getPapers({ format: 'json' }).then(function(response) {
-      //mlRest.callExtension('conferences', settings).then(function(response) {
+      mlRest.getPapers().then(function(response) {
         model.detail = response.data;
         model.papers = response.data;
       });

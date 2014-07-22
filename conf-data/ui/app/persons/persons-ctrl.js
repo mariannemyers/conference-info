@@ -10,7 +10,7 @@
         user: user
       };
 
-      mlRest.getPersons({ format: 'json' }).then(function(response) {
+      mlRest.getPersons().then(function(response) {
         model.detail = response.data;
         model.persons = response.data;
       });

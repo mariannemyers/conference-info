@@ -23,6 +23,8 @@
         user: user
       };
 
+
+
       mlRest.callExtension('comment',
         {
           method: 'GET',
@@ -102,10 +104,9 @@
         },
 
         addComment: function(comment) {
-          // add comments array if it doesn't exist
-          // this is for demos created before adding comments
+          // There might be the case that the comments are undefined.  Add an empty array
+          // but handle the doc creation in comment.xqy
           if (typeof $scope.model.comments === 'undefined') {
-            $scope.insertField('', {'comments':[]},'last-child');
             $scope.model.comments = [];
           }
           // send comment to server

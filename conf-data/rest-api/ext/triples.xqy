@@ -18,12 +18,10 @@ $context as map:map,
 $params  as map:map
 ) as document-node()* {
     let $iri := map:get($params, "iri")
-    let $log := xdmp:log($iri)
     let $bindings := ( map:entry("s",
       sem:iri($iri))
      )
     let $triples := sem:sparql-values("select * { ?s ?p ?o }",$bindings)
-    let $log := xdmp:log($triples)
     return (
       xdmp:set-response-code(200, "OK"),
       document { xdmp:to-json($triples)}
