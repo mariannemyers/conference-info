@@ -78,7 +78,7 @@ Some years of data have an abstract about papers.  This should be added in a fut
 Fix REST API XQuery modules to throw a 501 Not Implemented for POST, PUT, DELETE if not supported.
 
 ## Add unit tests
-Build Karma unit tests to support the application.
+Build Karma unit tests to support the application.  I found the learning curve to be steep for Karma, so unfortunately I did not have enough time to add some for this demo.
 
 ## Add keyword search for paper or person
 Implement a search feature to search for a person or paper. 
