@@ -1,4 +1,4 @@
-# conference-info
+# conf-data
 
 This application shows linked data (RDF) from the Semantic Web [Dog Food corpus](http://data.semanticweb.org) via an application originally created via
 the [MarkLogic Slush Generator](https://github.com/marklogic/slush-marklogic-node).  Use it to see conferences,
